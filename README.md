@@ -1,6 +1,6 @@
 # BMI-Calculator
 
-Kotlin BMI Calculator for Android app
+Kotlin **BMI Calculator** for Android app
 
 ## Example
 
