@@ -9,3 +9,8 @@ Kotlin **BMI Calculator** for Android app
 **OutPut** - BMI State
 
 ## View
+
+<p align=center>
+  <img src="https://github.com/Xenia101/BMI-Calculator/blob/master/img/img1.PNG?raw=true">
+  <img src="https://github.com/Xenia101/BMI-Calculator/blob/master/img/img2.PNG?raw=true">
+</p>
