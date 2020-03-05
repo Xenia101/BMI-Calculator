@@ -19,7 +19,7 @@ Kotlin **BMI Calculator** for Android app
 
 2. The result value is shown below.
 
--0 ~ 18.5 저체중
--18.5 ~ 23 정상
--23 ~ 25 과체중
--25 이상 비만 
+- 0 ~ 18.5 저체중
+- 18.5 ~ 23 정상
+- 23 ~ 25 과체중
+- 25 이상 비만 
