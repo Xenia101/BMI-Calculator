@@ -8,6 +8,11 @@ Kotlin **BMI Calculator** for Android app
 
 **OutPut** - BMI State
 
+- 0 ~ 18.5 저체중
+- 18.5 ~ 23 정상
+- 23 ~ 25 과체중
+- 25 이상 비만 
+
 ## View
 
 <p align=center>
@@ -18,8 +23,3 @@ Kotlin **BMI Calculator** for Android app
 1. Put your height and weight in each of them.
 
 2. The result value is shown below.
-
-- 0 ~ 18.5 저체중
-- 18.5 ~ 23 정상
-- 23 ~ 25 과체중
-- 25 이상 비만 
