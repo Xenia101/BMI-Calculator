@@ -1,7 +1,7 @@
 # BMI-Calculator
 
 <p align=center>
-  <img width="280px" src="https://github.com/Xenia101/BMI-Calculator/blob/master/img/bmi.PNG?raw=true">
+  <img width="400px" src="https://github.com/Xenia101/BMI-Calculator/blob/master/img/bmi.PNG?raw=true">
 </p>
 
 Kotlin **BMI Calculator** for Android app
